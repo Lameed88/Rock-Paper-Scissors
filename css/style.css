@@ -102,16 +102,6 @@ body {
   }
 
   /* media Query */
-  @keyframes modalopen {
-    from {
-      opacity: 0;
-    }
-  
-    to {
-      opacity: 1;
-    }
-  }
-  
   
   @media (max-width: 700px) {
     .choice {
